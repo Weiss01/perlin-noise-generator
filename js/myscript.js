@@ -1,7 +1,7 @@
 let rows;
 let cols;
 let scl = 20;
-let w = 5000;
+let w = 1200;
 let h = 4000;
 let terrain = [];
 let flying = 0;
@@ -28,9 +28,10 @@ function draw() {
         yoff = yoff + 0.15;
     }
 
+    frameRate(120);
     background(0);
     noFill();
-    stroke(255);
+    stroke(255, 204, 100);
 
     rotateX(PI / 3);
 
