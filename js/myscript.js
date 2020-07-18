@@ -1,7 +1,7 @@
 let rows;
 let cols;
 let scl = 20;
-let w = 4000;
+let w = 1200;
 let h = 4000;
 let terrain = [];
 let flying = 0;
