@@ -1,5 +1,5 @@
 # perlin-noise-generator
-A javascript replica of the perlin noise generator written by the coding train in java
+just messing around with p5.js
 
 Enlarged the canvas which made the browser lag more and lowered the framerates (but it looks alot cooler) :(
 
