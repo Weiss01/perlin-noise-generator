@@ -1,6 +1,8 @@
 # perlin-noise-generator
 just messing around with p5.js
 
+totally go check it out at: https://weiss01.github.io/perlin-noise-generator/
+
 Enlarged the canvas which made the browser lag more and lowered the framerates (but it looks alot cooler) :(
 
 p.s initially written the code in the p5 editor and it worked like a charm. Yet when I pasted the code in my atom editor and tested it out, the canvas was blank.
