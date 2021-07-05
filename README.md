@@ -1,5 +1,5 @@
 # perlin-noise-generator
-just messing around with p5.js
+just messing around with p5.js to randomly generate a endless moving terrain.
 
 totally go check it out at: https://weiss01.github.io/perlin-noise-generator/
 
